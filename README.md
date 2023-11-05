@@ -1,6 +1,3 @@
-# golden-square-in-python
-**Module 2 of Makers**
-
 # Module 2: The Golden Square Challenges
 
 In Module 2 of the Makers course, I accomplished the following significant objectives, showcasing my growth as a software engineer:
